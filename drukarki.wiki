@@ -124,10 +124,15 @@ Poprawna odpowiedź: **
 
 = Pytanie 16 =
 == Wyjaśnienie dla A ==
+*Przetwornik CMOS* nie jest materiałem eksploatacyjnym, lecz częścią sprzętu
+(hardware).
+
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
+*Kartridż z tonerem* to materiał eksploatacyjny drukarki laserowej.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Poprawna odpowiedź: *C*
 
 = Pytanie 17 =
 == Wyjaśnienie dla A ==
