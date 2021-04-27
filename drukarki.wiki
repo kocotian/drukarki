@@ -72,10 +72,18 @@ Poprawna odpowiedź: **
 
 = Zadanie 10 =
 == Wyjaśnienie dla A ==
+*PS/2* jest używane do podłączenia klawiatury oraz myszki.
+
 == Wyjaśnienie dla B ==
+*LPT* to złącze równoległe, więc jest to poprawna odpowiedź.
+
 == Wyjaśnienie dla C ==
+*COM* to złącze szeregowe.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+*RS-232* to złącze szeregowe.
+
+Poprawna odpowiedź: *B*
 
 = Zadanie 11 =
 == Wyjaśnienie dla A ==
