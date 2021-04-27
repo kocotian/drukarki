@@ -129,10 +129,21 @@ Poprawna odpowiedź: **
 
 = Pytanie 17 =
 == Wyjaśnienie dla A ==
+*Rozgrzanie wałka* sprawia, że toner przechodzący między wałkami stapia się i
+utrwala na "prasowanej" kartce.
+%% XXX: Może być źle!
+
 == Wyjaśnienie dla B ==
+*Promienie lasera* używane są jedynie do naelektryzowania bębna światłoczułego.
+
 == Wyjaśnienie dla C ==
+*Taśmy transmisyjne* wykorzystywane są w drukarkach taśmowych.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+*Głowice piezoelektryczne* wykorzystywane są w drukarkach atramentowych.
+
+Poprawna odpowiedź: *A*
+%% XXX: Może być źle!
 
 = Pytanie 18 =
 == Wyjaśnienie dla A ==
