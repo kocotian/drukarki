@@ -51,10 +51,18 @@ Poprawna odpowiedź: **
 
 = Pytanie 7 =
 == Wyjaśnienie dla A ==
+Drukarka atramentowa
+
 == Wyjaśnienie dla B ==
+Drukarka taśmowa
+
 == Wyjaśnienie dla C ==
+Drukarka żelowa
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+%% TODO: Do zrobienia
+
+Poprawna odpowiedź: *C*
 
 = Pytanie 8 =
 == Wyjaśnienie dla A ==
