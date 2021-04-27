@@ -123,3 +123,5 @@ Poprawna odpowiedź: **
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
+
+%% vim:textwidth:79
