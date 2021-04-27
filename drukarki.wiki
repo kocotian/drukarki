@@ -1,11 +1,11 @@
-= Zadanie 1 =
+= Pytanie 1 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 2 =
+= Pytanie 2 =
 == Wyjaśnienie dla A ==
 *Nul* nie jest złączem.
 
@@ -21,56 +21,56 @@ Złącze *COM* jest szeregowym złączem używanym do podłączenia szeregowego.
 
 Poprawna odpowiedź: *B*
 
-= Zadanie 3 =
+= Pytanie 3 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 4 =
+= Pytanie 4 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 5 =
+= Pytanie 5 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 6 =
+= Pytanie 6 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 7 =
+= Pytanie 7 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 8 =
+= Pytanie 8 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 9 =
+= Pytanie 9 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 10 =
+= Pytanie 10 =
 == Wyjaśnienie dla A ==
 *PS/2* jest używane do podłączenia klawiatury oraz myszki.
 
@@ -85,56 +85,56 @@ Poprawna odpowiedź: **
 
 Poprawna odpowiedź: *B*
 
-= Zadanie 11 =
+= Pytanie 11 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 12 =
+= Pytanie 12 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 13 =
+= Pytanie 13 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 14 =
+= Pytanie 14 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 15 =
+= Pytanie 15 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 16 =
+= Pytanie 16 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 17 =
+= Pytanie 17 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
-= Zadanie 18 =
+= Pytanie 18 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
