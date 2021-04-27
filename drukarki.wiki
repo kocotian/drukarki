@@ -44,10 +44,18 @@ Poprawna odpowiedź: **
 
 = Pytanie 6 =
 == Wyjaśnienie dla A ==
+*RJ45* jest złączem do ethernetu dostępnego w drukarce.
+
 == Wyjaśnienie dla B ==
+Drukarka nie ma takiego złącza.
+
 == Wyjaśnienie dla C ==
+Drukarka nie ma takiego złącza.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Drukarka nie ma takiego złącza.
+
+Poprawna odpowiedź: *A*
 
 = Pytanie 7 =
 == Wyjaśnienie dla A ==
