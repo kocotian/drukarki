@@ -115,6 +115,8 @@ Poprawna odpowiedź: **
 
 = Pytanie 15 =
 == Wyjaśnienie dla A ==
+Drukarka _laserowa_ nie używa *tuszu*.
+
 == Wyjaśnienie dla B ==
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
