@@ -7,10 +7,19 @@ Poprawna odpowiedź: **
 
 = Zadanie 2 =
 == Wyjaśnienie dla A ==
+*Nul* nie jest złączem.
+
 == Wyjaśnienie dla B ==
+*WSD* to API używane do sieciowego łączenia urządzeń dostępne od systemu
+Microsoft Windows® Vista™, więc jest to poprawna odpowiedź.
+
 == Wyjaśnienie dla C ==
+Port *LPT* jest portem używanym do przewodowego łączenia drukarki z komputerem.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Złącze *COM* jest szeregowym złączem używanym do podłączenia szeregowego.
+
+Poprawna odpowiedź: *B*
 
 = Zadanie 3 =
 == Wyjaśnienie dla A ==
