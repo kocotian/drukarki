@@ -81,13 +81,13 @@ Poprawna odpowiedź: *B*
 *RJ45* jest złączem do ethernetu dostępnego w drukarce.
 
 == Wyjaśnienie dla B ==
-Drukarka nie ma takiego złącza.
+Złącze *mini DIN* nie jest używane w drukarkach.
 
 == Wyjaśnienie dla C ==
-Drukarka nie ma takiego złącza.
+Drukarka ta nie posiada złącza *Centronics*.
 
 == Wyjaśnienie dla D ==
-Drukarka nie ma takiego złącza.
+Drukarka ta nie posiada złącza *Micro Ribbon*.
 
 Poprawna odpowiedź: *A*
 
