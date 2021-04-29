@@ -31,16 +31,17 @@ Poprawna odpowiedź: *B*
 
 = Pytanie 3 =
 == Wyjaśnienie dla A ==
-Dotyczy to drukarki głowicowej oraz igłowej.
+*Zespół czyszczący głowice* występuje w drukarce głowicowej oraz igłowej.
 
 == Wyjaśnienie dla B ==
-Dotyczy to drukarki atramentowej.
+*Prowadnice karetki* znajdują się w drukarkach atramentowych.
 
 == Wyjaśnienie dla C ==
-Tylko drukarka laserowa ma te części.
+Tylko drukarka laserowa posiada *lustra* i *soczewki* które powinny być
+czyszczone.
 
 == Wyjaśnienie dla D ==
-Dotyczy to drukarki igłowej.
+*Czyszczenie traktora* to czynność konserwacyjna dotycząca drukarki igłowej.
 
 Poprawna odpowiedź: *C*
 
