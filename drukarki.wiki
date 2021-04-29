@@ -31,16 +31,23 @@ Poprawna odpowiedź: **
 = Pytanie 4 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
+*Filament* to materiał eksploatacyjny używany w drukarkach 3D.
+
 == Wyjaśnienie dla C ==
+*Taśma woskowa* jest materiałem eksploatacyjnym używanych w drukarkach
+taśmowych.
+
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
 = Pytanie 5 =
 == Wyjaśnienie dla A ==
 == Wyjaśnienie dla B ==
+Toner jest materiałem eksploatacyjnym drukarki *laserowej*.
+
 == Wyjaśnienie dla C ==
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Poprawna odpowiedź: *B*
 
 = Pytanie 6 =
 == Wyjaśnienie dla A ==
