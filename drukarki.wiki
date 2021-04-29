@@ -23,10 +23,18 @@ Poprawna odpowiedź: *B*
 
 = Pytanie 3 =
 == Wyjaśnienie dla A ==
+Dotyczy to drukarki głowicowej oraz igłowej.
+
 == Wyjaśnienie dla B ==
+Dotyczy to drukarki atramentowej.
+
 == Wyjaśnienie dla C ==
+Tylko drukarka laserowa ma te części.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Dotyczy to drukarki igłowej.
+
+Poprawna odpowiedź: *C*
 
 = Pytanie 4 =
 == Wyjaśnienie dla A ==
