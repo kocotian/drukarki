@@ -63,11 +63,17 @@ Poprawna odpowiedź: *D*
 
 = Pytanie 5 =
 == Wyjaśnienie dla A ==
+*Drukarki igłowe* używają taśmy barwiącej.
+
 == Wyjaśnienie dla B ==
-Toner jest materiałem eksploatacyjnym drukarki *laserowej*.
+Toner jest materiałem eksploatacyjnym drukarki *laserowej* i _kserokopiarek_.
 
 == Wyjaśnienie dla C ==
+*Drukarka atramentowa* używa tuszu.
+
 == Wyjaśnienie dla D ==
+W *drukarkach sublimacyjnych* używany jest atrament sublimacyjny.
+
 Poprawna odpowiedź: *B*
 
 = Pytanie 6 =
