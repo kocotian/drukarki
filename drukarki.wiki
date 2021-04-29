@@ -47,6 +47,8 @@ Poprawna odpowiedź: *C*
 
 = Pytanie 4 =
 == Wyjaśnienie dla A ==
+`fuser` to polecenie systemu UNIX ;(
+
 == Wyjaśnienie dla B ==
 *Filament* to materiał eksploatacyjny używany w drukarkach 3D.
 
@@ -55,7 +57,9 @@ Poprawna odpowiedź: *C*
 taśmowych.
 
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+W drukarkach tekstylnych używany jest *atrament sublimacyjny*.
+
+Poprawna odpowiedź: *D*
 
 = Pytanie 5 =
 == Wyjaśnienie dla A ==
