@@ -1,9 +1,17 @@
 = Pytanie 1 =
 == Wyjaśnienie dla A ==
+Lustro występuje tylko w drukarkach laserowych.
+
 == Wyjaśnienie dla B ==
+Papier w drukarkach igłowych przechodzi przez *traktor*.
+
 == Wyjaśnienie dla C ==
+Soczewka występuje tylko w drukarkach laserowych.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+%% TODO
+
+Poprawna odpowiedź: *B*
 
 = Pytanie 2 =
 == Wyjaśnienie dla A ==
