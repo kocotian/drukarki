@@ -236,10 +236,20 @@ Poprawna odpowiedź: *A*
 
 = Pytanie 18 =
 == Wyjaśnienie dla A ==
+*Niska temperatura utrwalacza* sprawi, że toner będzie rozmazany.
+
 == Wyjaśnienie dla B ==
+*Uszkodzenie rolek* sprawi, że papier nie będzie szedł dalej.
+
 == Wyjaśnienie dla C ==
+*Zacięcie papieru* sprawi, że papier nie zostanie podany, bądź zostanie
+podany krzywo.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+*Zanieczyszczenie wnętrza drukarki* może sprawić, że kartka wyjdzie z
+niej zabrudzona.
+
+Poprawna odpowiedź: *A*
 
 = Autorzy =
 {{{c
