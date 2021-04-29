@@ -230,4 +230,12 @@ Poprawna odpowiedź: *A*
 == Wyjaśnienie dla D ==
 Poprawna odpowiedź: **
 
+= Autorzy =
+{{{c
+static const char *authors[] = {
+	"Kacper Kocot",
+	"Wojciech Tomasik",
+};
+}}}
+
 %% vim:textwidth=79
