@@ -157,11 +157,7 @@ poprawna odpowiedź.
 Poprawna odpowiedź: *B*
 
 = Pytanie 11 =
-== Wyjaśnienie dla A ==
-== Wyjaśnienie dla B ==
-== Wyjaśnienie dla C ==
-== Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Poprawna odpowiedź: *D*
 
 = Pytanie 12 =
 == Wyjaśnienie dla A ==
