@@ -127,7 +127,7 @@ Poprawna odpowiedź: *A*
 
 = Pytanie 9 =
 == Wyjaśnienie dla A ==
-Jest to poprawna odpowiedź.
+Taśma barwiąca używana jest w drukarce *igłowej*
 
 == Wyjaśnienie dla B ==
 Drukarka *laserowa* do drukowania używa tonera.
@@ -138,7 +138,7 @@ Drukarka *atramentowa* do drukowania używa tuszu.
 == Wyjaśnienie dla D ==
 Drukarka *termiczna* do drukowania używa głowicy termicznej.
 
-Poprawna odpowiedź: **
+Poprawna odpowiedź: *A*
 
 = Pytanie 10 =
 == Wyjaśnienie dla A ==
