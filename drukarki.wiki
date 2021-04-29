@@ -175,7 +175,7 @@ Drukarka *atramentowa* nakłada na papier krople atramentu i nie wymaga wysokiej
 temperatury.
 
 == Wyjaśnienie dla D ==
-Drukarka *termosublimacyjna* odparowuje wosk z taśmy na papier.
+Drukarka *termosublimacyjna* nakładają barwnik na papier przy użyciu ciepła.
 
 Poprawna odpowiedź: *A*
 
