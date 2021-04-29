@@ -139,11 +139,7 @@ Poprawna odpowiedź: **
 Poprawna odpowiedź: **
 
 = Pytanie 14 =
-== Wyjaśnienie dla A ==
-== Wyjaśnienie dla B ==
-== Wyjaśnienie dla C ==
-== Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Poprawna odpowiedź: *C*
 
 = Pytanie 15 =
 == Wyjaśnienie dla A ==
