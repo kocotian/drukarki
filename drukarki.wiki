@@ -59,13 +59,14 @@ Poprawna odpowiedź: *A*
 
 = Pytanie 7 =
 == Wyjaśnienie dla A ==
-Drukarka atramentowa
+Jest to materiał eksploatacyjny do drukarki *atramentowej*.
 
 == Wyjaśnienie dla B ==
-Drukarka taśmowa
+Jest to materiał eksploatacyjny do drukarki *taśmowej*.
+%% XXX: D?
 
 == Wyjaśnienie dla C ==
-Drukarka żelowa
+Jest to materiał eksploatacyjny do drukarki *żelowej*.
 
 == Wyjaśnienie dla D ==
 %% TODO: Do zrobienia
