@@ -98,10 +98,18 @@ Poprawna odpowiedź: *C*
 
 = Pytanie 8 =
 == Wyjaśnienie dla A ==
+*Wałek grzewczy* powoduje stopienie się tonera i wprasowanie go w kartkę.
+
 == Wyjaśnienie dla B ==
+*Bęben światłoczuły* nanosi toner, ale go nie utrwala.
+
 == Wyjaśnienie dla C ==
+*Elektroda* tylko wspomaga przenoszenie tonera.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+*Listwa czyszcząca* nie jest częścią drukarki laserowej.
+
+Poprawna odpowiedź: *A*
 
 = Pytanie 9 =
 == Wyjaśnienie dla A ==
