@@ -160,11 +160,7 @@ Poprawna odpowiedź: *B*
 Poprawna odpowiedź: *D*
 
 = Pytanie 12 =
-== Wyjaśnienie dla A ==
-== Wyjaśnienie dla B ==
-== Wyjaśnienie dla C ==
-== Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Poprawna odpowiedź: *B*
 
 = Pytanie 13 =
 == Wyjaśnienie dla A ==
