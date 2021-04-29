@@ -164,19 +164,18 @@ Poprawna odpowiedź: *B*
 
 = Pytanie 13 =
 == Wyjaśnienie dla A ==
-Drukarka laserowa rozgrzewa i wprasowuje toner w kartkę.
+Drukarka *laserowa* rozgrzewa i wprasowuje toner w kartkę.
 
 == Wyjaśnienie dla B ==
-Drukarka termiczna za pomocą ciepła sprawia że papier ciemniej.
-Nie używa barwnika, a gdyby papier był odporny na ciepło
-nie można by na nim drukować.
+Drukarka *termiczna* sprawia, że papier ciemnieje za pomocą ciepła bez
+użycia barwnika.
 
 == Wyjaśnienie dla C ==
-Drukarka atramentowa nakłada na papier krople atramentu i nie wymaga wysokiej
+Drukarka *atramentowa* nakłada na papier krople atramentu i nie wymaga wysokiej
 temperatury.
 
 == Wyjaśnienie dla D ==
-Drukarka termosublimacyja odparowuje wosk z taśmy na papier.
+Drukarka *termosublimacyjna* odparowuje wosk z taśmy na papier.
 
 Poprawna odpowiedź: *A*
 
