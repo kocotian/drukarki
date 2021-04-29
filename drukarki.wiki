@@ -145,7 +145,8 @@ Poprawna odpowiedź: *A*
 *PS/2* jest używane do podłączenia klawiatury oraz myszki.
 
 == Wyjaśnienie dla B ==
-*LPT* to złącze równoległe, więc jest to poprawna odpowiedź.
+*LPT* to szeroko używane w drukarkach złącze równoległe, więc jest to
+poprawna odpowiedź.
 
 == Wyjaśnienie dla C ==
 *COM* to złącze szeregowe.
