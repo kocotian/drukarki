@@ -47,7 +47,7 @@ Poprawna odpowiedź: *C*
 
 = Pytanie 4 =
 == Wyjaśnienie dla A ==
-`fuser` to polecenie systemu UNIX ;(
+`fuser` to polecenie systemu UNIX ;(.
 
 == Wyjaśnienie dla B ==
 *Filament* to materiał eksploatacyjny używany w drukarkach 3D.
