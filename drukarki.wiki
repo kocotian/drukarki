@@ -205,10 +205,15 @@ Poprawna odpowiedź: *C*
 (hardware).
 
 == Wyjaśnienie dla B ==
+*Podajnik papieru* również nie należy do materiałów eksploatacyjnych.
+
 == Wyjaśnienie dla C ==
 *Kartridż z tonerem* to materiał eksploatacyjny drukarki laserowej.
 
 == Wyjaśnienie dla D ==
+*Pamięć wydruku* jest to software'owa część drukarki odpowiedzialna za
+kolejkowanie dokumentów do druku.
+
 Poprawna odpowiedź: *C*
 
 = Pytanie 17 =
