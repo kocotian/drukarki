@@ -1,15 +1,15 @@
 = Pytanie 1 =
 == Wyjaśnienie dla A ==
-Lustro występuje tylko w drukarkach laserowych.
+*Lustro* występuje tylko w drukarkach laserowych.
 
 == Wyjaśnienie dla B ==
 Papier w drukarkach igłowych przechodzi przez *traktor*.
 
 == Wyjaśnienie dla C ==
-Soczewka występuje tylko w drukarkach laserowych.
+*Soczewka* występuje tylko w drukarkach laserowych.
 
 == Wyjaśnienie dla D ==
-%% TODO
+*Filtr ozonowy* znajduje się w drukarkach atramentowych.
 
 Poprawna odpowiedź: *B*
 
