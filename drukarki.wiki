@@ -93,17 +93,20 @@ Poprawna odpowiedź: *A*
 
 = Pytanie 7 =
 == Wyjaśnienie dla A ==
-Jest to materiał eksploatacyjny do drukarki *atramentowej*.
+Rysunek *A* przedstawia *kartridż z tuszem* będący materiałem eksploatacyjnym
+drukarkek *atramentowych*.
 
 == Wyjaśnienie dla B ==
-Jest to materiał eksploatacyjny do drukarki *taśmowej*.
+Rysunek *B* przedstawia taśmę barwiącą, materiał eksploatacyjny drukarkek
+*termicznych*.
 %% XXX: D?
 
 == Wyjaśnienie dla C ==
-Jest to materiał eksploatacyjny do drukarki *żelowej*.
+Rysunek *C* przedstawia kartridż z tuszem, materiał eksploatacyjny do drukarkek
+*żelowych*.
 
 == Wyjaśnienie dla D ==
-%% TODO: Do zrobienia
+Rysunek *D* przedstawia filament do drukarek *3D*.
 
 Poprawna odpowiedź: *C*
 
