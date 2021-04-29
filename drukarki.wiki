@@ -245,4 +245,4 @@ static const char *authors[] = {
 };
 }}}
 
-%% vim:textwidth=79
+%% vim:textwidth=72
