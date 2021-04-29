@@ -113,9 +113,17 @@ Poprawna odpowiedź: *A*
 
 = Pytanie 9 =
 == Wyjaśnienie dla A ==
+Jest to poprawna odpowiedź.
+
 == Wyjaśnienie dla B ==
+Drukarka *laserowa* do drukowania używa tonera.
+
 == Wyjaśnienie dla C ==
+Drukarka *atramentowa* do drukowania używa tuszu.
+
 == Wyjaśnienie dla D ==
+Drukarka *termiczna* do drukowania używa głowicy termicznej.
+
 Poprawna odpowiedź: **
 
 = Pytanie 10 =
