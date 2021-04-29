@@ -157,10 +157,21 @@ Poprawna odpowiedź: **
 
 = Pytanie 13 =
 == Wyjaśnienie dla A ==
+Drukarka laserowa rozgrzewa i wprasowuje toner w kartkę.
+
 == Wyjaśnienie dla B ==
+Drukarka termiczna za pomocą ciepła sprawia że papier ciemniej.
+Nie używa barwnika, a gdyby papier był odporny na ciepło
+nie można by na nim drukować.
+
 == Wyjaśnienie dla C ==
+Drukarka atramentowa nakłada na papier krople atramentu i nie wymaga wysokiej
+temperatury.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Drukarka termosublimacyja odparowuje wosk z taśmy na papier.
+
+Poprawna odpowiedź: *A*
 
 = Pytanie 14 =
 Poprawna odpowiedź: *C*
@@ -170,9 +181,17 @@ Poprawna odpowiedź: *C*
 Drukarka _laserowa_ nie używa *tuszu*.
 
 == Wyjaśnienie dla B ==
+Uszkodzony podajnik papieru mógłby spowodować poniszczenie kartki lub nierówny
+druk.
+
 == Wyjaśnienie dla C ==
+Bęben światłoczuły jest odpowiedzialny za nakładanie tonera.
+
 == Wyjaśnienie dla D ==
-Poprawna odpowiedź: **
+Brak tonera nie może być problemem, ponieważ tekst został wydrukowany oraz zamazany, więc został
+on nałożony.
+
+Poprawna odpowiedź: *C*
 
 = Pytanie 16 =
 == Wyjaśnienie dla A ==
